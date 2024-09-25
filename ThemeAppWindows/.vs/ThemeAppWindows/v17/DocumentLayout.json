@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tickets\\EmbeddedImageAndroid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\EmbeddedImageAndroid.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\EmbeddedImageAndroid.csproj|solutionrelative:embeddedimageandroid\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\EmbeddedImageAndroid.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\EmbeddedImageAndroid.csproj|solutionrelative:embeddedimageandroid\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|solutionrelative:embeddedimageandroid\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|solutionrelative:embeddedimageandroid\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|solutionrelative:embeddedimageandroid\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|solutionrelative:embeddedimageandroid\\platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|solutionrelative:embeddedimageandroid\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\platforms\\tizen\\tizen-manifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|solutionrelative:embeddedimageandroid\\platforms\\tizen\\tizen-manifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\platforms\\tizen\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|solutionrelative:embeddedimageandroid\\platforms\\tizen\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\platforms\\maccatalyst\\info.plist||{C6FFD277-C1E0-43E0-819A-BF6B6C171CB7}|Default",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|solutionrelative:embeddedimageandroid\\platforms\\maccatalyst\\info.plist||{C6FFD277-C1E0-43E0-819A-BF6B6C171CB7}|Default"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\platforms\\maccatalyst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|solutionrelative:embeddedimageandroid\\platforms\\maccatalyst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\platforms\\maccatalyst\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|solutionrelative:embeddedimageandroid\\platforms\\maccatalyst\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|solutionrelative:embeddedimageandroid\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\platforms\\ios\\info.plist||{C6FFD277-C1E0-43E0-819A-BF6B6C171CB7}|Default",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|solutionrelative:embeddedimageandroid\\platforms\\ios\\info.plist||{C6FFD277-C1E0-43E0-819A-BF6B6C171CB7}|Default"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|solutionrelative:embeddedimageandroid\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|solutionrelative:embeddedimageandroid\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|solutionrelative:embeddedimageandroid\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|solutionrelative:embeddedimageandroid\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|solutionrelative:embeddedimageandroid\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|solutionrelative:embeddedimageandroid\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|d:\\tickets\\embeddedimageandroid\\embeddedimageandroid\\themeappwindows.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{785E51F7-7A2F-4998-A61B-2C9E6E5CE1AC}|EmbeddedImageAndroid\\ThemeAppWindows.csproj|solutionrelative:embeddedimageandroid\\themeappwindows.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\Windows\\App.xaml.cs",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\Platforms\\Windows\\App.xaml.cs",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\Windows\\App.xaml.cs",
+              "RelativeToolTip": "EmbeddedImageAndroid\\Platforms\\Windows\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:35:24.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\Windows\\App.xaml",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\Platforms\\Windows\\App.xaml",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\Windows\\App.xaml",
+              "RelativeToolTip": "EmbeddedImageAndroid\\Platforms\\Windows\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-25T10:35:13.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.manifest",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\Windows\\app.manifest",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\Platforms\\Windows\\app.manifest",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\Windows\\app.manifest",
+              "RelativeToolTip": "EmbeddedImageAndroid\\Platforms\\Windows\\app.manifest",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-09-25T10:35:06.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\App.xaml",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\App.xaml",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\App.xaml",
+              "RelativeToolTip": "EmbeddedImageAndroid\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-25T10:31:56.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\MainPage.xaml",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\MainPage.xaml",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\MainPage.xaml",
+              "RelativeToolTip": "EmbeddedImageAndroid\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-11T06:05:50.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\MainPage.xaml.cs",
+              "RelativeToolTip": "EmbeddedImageAndroid\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:08:00.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\MauiProgram.cs",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\MauiProgram.cs",
+              "RelativeToolTip": "EmbeddedImageAndroid\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:32:35.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tizen-manifest.xml",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\Tizen\\tizen-manifest.xml",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\Platforms\\Tizen\\tizen-manifest.xml",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\Tizen\\tizen-manifest.xml",
+              "RelativeToolTip": "EmbeddedImageAndroid\\Platforms\\Tizen\\tizen-manifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-25T10:34:54.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\Tizen\\Main.cs",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\Platforms\\Tizen\\Main.cs",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\Tizen\\Main.cs",
+              "RelativeToolTip": "EmbeddedImageAndroid\\Platforms\\Tizen\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:34:45.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Info.plist",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\MacCatalyst\\Info.plist",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\Platforms\\MacCatalyst\\Info.plist",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\MacCatalyst\\Info.plist",
+              "RelativeToolTip": "EmbeddedImageAndroid\\Platforms\\MacCatalyst\\Info.plist",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-25T10:34:42.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\MacCatalyst\\Program.cs",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\Platforms\\MacCatalyst\\Program.cs",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\MacCatalyst\\Program.cs",
+              "RelativeToolTip": "EmbeddedImageAndroid\\Platforms\\MacCatalyst\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:34:35.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDelegate.cs",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\MacCatalyst\\AppDelegate.cs",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\Platforms\\MacCatalyst\\AppDelegate.cs",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\MacCatalyst\\AppDelegate.cs",
+              "RelativeToolTip": "EmbeddedImageAndroid\\Platforms\\MacCatalyst\\AppDelegate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:34:28.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\iOS\\Program.cs",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\Platforms\\iOS\\Program.cs",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\iOS\\Program.cs",
+              "RelativeToolTip": "EmbeddedImageAndroid\\Platforms\\iOS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:33:22.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Info.plist",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\iOS\\Info.plist",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\Platforms\\iOS\\Info.plist",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\iOS\\Info.plist",
+              "RelativeToolTip": "EmbeddedImageAndroid\\Platforms\\iOS\\Info.plist",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-25T10:33:18.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDelegate.cs",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\Platforms\\iOS\\AppDelegate.cs",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeToolTip": "EmbeddedImageAndroid\\Platforms\\iOS\\AppDelegate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:33:10.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "EmbeddedImageAndroid\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:33:04.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "EmbeddedImageAndroid\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:32:59.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\AppShell.xaml.cs",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\AppShell.xaml.cs",
+              "RelativeToolTip": "EmbeddedImageAndroid\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:32:21.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\AppShell.xaml",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\AppShell.xaml",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\AppShell.xaml",
+              "RelativeToolTip": "EmbeddedImageAndroid\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-25T10:32:11.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\App.xaml.cs",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\App.xaml.cs",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\App.xaml.cs",
+              "RelativeToolTip": "EmbeddedImageAndroid\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:32:05.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ThemeAppWindows.csproj",
+              "DocumentMoniker": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\ThemeAppWindows.csproj",
+              "RelativeDocumentMoniker": "EmbeddedImageAndroid\\ThemeAppWindows.csproj",
+              "ToolTip": "D:\\Tickets\\EmbeddedImageAndroid\\EmbeddedImageAndroid\\ThemeAppWindows.csproj",
+              "RelativeToolTip": "EmbeddedImageAndroid\\ThemeAppWindows.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T10:31:04.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
